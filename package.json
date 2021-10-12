@@ -10,8 +10,31 @@
     "lint": "eslint ."
   },
   "dependencies": {
-    "react": "17.0.2",
-    "react-native": "0.66.0"
+    "@babel/preset-env": "^7.15.8",
+    "@react-native-async-storage/async-storage": "^1.15.8",
+    "@react-native-community/datetimepicker": "3.5.2",
+    "@react-native-community/netinfo": "6.0.0",
+    "@react-navigation/native": "^6.0.2",
+    "@react-navigation/stack": "^6.0.7",
+    "@types/react": "^17.0.27",
+    "@types/react-native": "^0.65.5",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-native": "0.66.0",
+    "react-native-copilot": "^2.5.1",
+    "react-native-fbsdk-next": "^4.6.0",
+    "react-native-gesture-handler": "~1.10.2",
+    "react-native-paper": "^4.9.2",
+    "react-native-paper-dates": "^0.4.6",
+    "react-native-paper-dropdown": "^1.0.7",
+    "react-native-responsive-screen": "^1.4.2",
+    "react-native-safe-area-context": "3.2.0",
+    "react-native-screens": "~3.4.0",
+    "react-native-svg": "^12.1.1",
+    "react-native-vector-icons": "^8.1.0",
+    "react-native-web": "^0.17.5",
+    "rn-tourguide": "^2.7.1",
+    "typescript": "^4.4.3"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
